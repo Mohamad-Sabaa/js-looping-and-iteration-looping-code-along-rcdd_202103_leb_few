@@ -11,7 +11,7 @@ writeCards(['Mohamad','Salim','Abdualla'], 'car');
 
 function countDown(num) {
 
-  for(let i = num; i > -1; i--){
+  for(let i = 10; i > -1; i--){
     console.log(i);
   }
 
